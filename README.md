@@ -1,2 +1,3 @@
 # photo-album
-photo album ，solution，manage，touch screen
+function: photo album ，solution，manage，touch screen
+execute file: run.sh
